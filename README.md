@@ -1,8 +1,8 @@
 # FreeRadarChartView
-##图表展示
+## 图表展示
 ![](https://github.com/SaltedFishHan/FreeRadarChartView/raw/master/app/1111.gif)
 
-##添加数据
+## 添加数据
 ```java
   radarView = (RadarChartView) findViewById(R.id.radarView);
 
@@ -24,7 +24,7 @@ radarView.addData(valueHash);
 radarView.setAxisNumb(6);
 ```
 
-##所有可设置图表属性
+## 所有可设置图表属性
 ```java
 /**
    * 增加一组数据
