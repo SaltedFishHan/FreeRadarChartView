@@ -1,3 +1,3 @@
 # FreeRadarChartView
 RedarChart
-![](https://github.com/FreeRadarChartView/app/1111.gif)
+![](https://github.com/SaltedFishHan/FreeRadarChartView/raw/master/app/1111.gif)
